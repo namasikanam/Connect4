@@ -1,0 +1,5 @@
+﻿cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Compete.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+Compete.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Compete.vcxproj -> C:\Users\namas\Documents\Course\2019Spring\Introduction-to-Artificial-Intelligence\AI_project_win\Compete\Debug\Compete.exe

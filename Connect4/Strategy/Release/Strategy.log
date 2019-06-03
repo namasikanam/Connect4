@@ -1,0 +1,10 @@
+﻿  Strategy.cpp
+C:\Users\namas\Documents\Course\2019Spring\Introduction-to-Artificial-Intelligence\AI_project_win\Connect4\Strategy\Strategy.cpp(19): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+     Creating library C:\Users\namas\Documents\Course\2019Spring\Introduction-to-Artificial-Intelligence\AI_project_win\Connect4\Release\Strategy.lib and object C:\Users\namas\Documents\Course\2019Spring\Introduction-to-Artificial-Intelligence\AI_project_win\Connect4\Release\Strategy.exp
+  Generating code
+  35 of 128 functions (27.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Strategy.vcxproj -> C:\Users\namas\Documents\Course\2019Spring\Introduction-to-Artificial-Intelligence\AI_project_win\Connect4\Release\Strategy.dll
